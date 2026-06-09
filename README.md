@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Abdul Aziz Setiadi Haryanto
+## Hi there 👋 I'm Aziz Haryanto
 
 **Code builds the foundation; design builds the connection. I craft seamless, user-centered UI/UX with the technical mind of a Software Engineer.**
 
@@ -10,7 +10,6 @@ I am a Software Engineering undergraduate at Prasetiya Mulya University. I enjoy
 - 🌱 **I’m currently learning:** Deepening my knowledge in Native Android Development (Kotlin) and exploring more advanced Full-Stack architectures.
 - 👯 **I’m looking to collaborate on:** Mobile applications, full-stack web platforms, or any project that prioritizes a great user experience (UX).
 - 💬 **Ask me about:** Frontend/Backend development (Next.js, Django), cross-platform mobile apps (Flutter), and bridging UI/UX with technical development.
-- 📫 **How to reach me:** [ajishartanto45@gmail.com](mailto:ajishartanto45@gmail.com)
 - ⚡ **Fun fact:** I run on exactly two cups of Americano a day to keep my debugging sessions going! ☕
 
 ### 💻 Tech Stack & Tools
