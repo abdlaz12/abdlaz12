@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Abdul Aziz Setiadi Haryanto
 
-<!--
-**abdlaz12/abdlaz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Code builds the foundation; design builds the connection. I craft seamless, user-centered UI/UX with the technical mind of a Software Engineer.**
 
-Here are some ideas to get you started:
+I am a Software Engineering undergraduate at Prasetiya Mulya University. I enjoy building robust applications and translating user needs into seamless digital experiences. My technical background gives me a unique advantage: I design with a deep understanding of what is technically feasible, ensuring a smooth workflow between design and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 **I’m currently working on:** IoT-based applications like *AeroFeed* (Aquarium Smart System) and a *pH Counter* for Eco-Enzyme monitoring using Next.js.
+- 🌱 **I’m currently learning:** Deepening my knowledge in Native Android Development (Kotlin) and exploring more advanced Full-Stack architectures.
+- 👯 **I’m looking to collaborate on:** Mobile applications, full-stack web platforms, or any project that prioritizes a great user experience (UX).
+- 💬 **Ask me about:** Frontend/Backend development (Next.js, Django), cross-platform mobile apps (Flutter), and bridging UI/UX with technical development.
+- 📫 **How to reach me:** [ajishartanto45@gmail.com](mailto:ajishartanto45@gmail.com)
+- ⚡ **Fun fact:** I run on exactly two cups of Americano a day to keep my debugging sessions going! ☕
+
+### 💻 Tech Stack & Tools
+
+**Languages:** 
+`Python` | `JavaScript` | `Dart` | `Kotlin` | `SQL` | `HTML/CSS`
+
+**Frameworks & Libraries:** 
+`Flutter` | `Next.js` | `Django` | `React` | `Pandas` | `NumPy`
+
+**Tools & Workflow:** 
+`Git & GitHub` | `Postman` | `Android Studio` | `VS Code` | `Figma` | `Selenium` | `Cypress`
+
+---
+⭐️ *Thanks for stopping by! Feel free to check out my pinned repositories below.*
